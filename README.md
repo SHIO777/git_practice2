@@ -28,3 +28,6 @@ asdfaf
 aslkdfjkajfdjafjsd
 
 
+# feature/add_functionでの作業
+これはfeature/add_functionブランチでの作業内容です。
+
