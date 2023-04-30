@@ -21,3 +21,10 @@ b = 2;
 ここはdevelopブランチで編集した内容です.
 
 
+# 追加作業1
+asdfaf
+
+# 追加作業2
+aslkdfjkajfdjafjsd
+
+
